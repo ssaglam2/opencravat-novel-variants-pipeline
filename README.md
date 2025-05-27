@@ -200,9 +200,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-**Project Lead**: [Your Name]  
-**Email**: [your.email@domain.com]  
-**Institution**: [Your Institution]
+**Project Lead**: Sinan SAGLAM 
+**Email**: sinansaglam6@gmail.com  
+**Institution**: University of Pisa
 
 ## 🙏 Acknowledgments
 
@@ -217,16 +217,16 @@ If you use this pipeline in your research, please cite:
 
 ```bibtex
 @software{opencravat_novel_variants_2024,
-  author = {[Your Name]},
-  title = {OpenCRAVAT Novel Variants Discovery Pipeline},
-  year = {2024},
-  url = {https://github.com/[username]/opencravat-novel-variants},
-  doi = {[DOI if available]}
+  author = {Sinan Saglam]},
+  title = {Novel Variants Discovery Pipeline},
+  year = {2025},
+  url = {https://github.com/[ssaglam2]/novel-variants},
+  
 }
 ```
 
 ---
 
-**Last Updated**: December 2024  
+**Last Updated**: May 2025 
 **Version**: 1.0.0  
 **Status**: Template/Framework for Novel Variant Discovery 
